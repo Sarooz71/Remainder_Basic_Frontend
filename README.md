@@ -21,6 +21,8 @@ Example UI:
 |                  |
 | [GitHub][Linked] |
 +------------------+
+# Improvement to my code
+- Adding transition 0.3s 
 
 ## Project 2: Product Card
 
