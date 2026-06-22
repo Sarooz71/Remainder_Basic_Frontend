@@ -23,6 +23,7 @@ Example UI:
 +------------------+
 # Improvement to my code
 - Adding transition 0.3s 
+- hover
 
 ## Project 2: Product Card
 
